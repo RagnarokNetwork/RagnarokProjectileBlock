@@ -1,0 +1,10 @@
+name: RagnarokProjectileBlock
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokprojectileblock.RagnarokProjectileBlock
+authors: [ Bloedarend ]
+commands:
+  ragnarokprojectileblock:
+    description: Reload the plugin.
+    usage: /ragnarokprojectileblock help
+    permission: ragnarokprojectileblock.admin
+    aliases: [ rpb ]
